@@ -12,13 +12,13 @@ html {
 .space {
   height: 6rem;
 }
+d-flex {
+  justify-content: center;
+}
 
 h1 {
   font-size: 2rem;
   color: #e2dbdb;
-}
-.d-flex {
-  justify-content: center;
 }
 
 .btn {
@@ -34,7 +34,7 @@ h1 {
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
-  border-width: 2px
+  border-width: 2px;
 }
 
 hr {
