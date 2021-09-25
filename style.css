@@ -17,6 +17,9 @@ h1 {
   font-size: 2rem;
   color: #e2dbdb;
 }
+.d-flex {
+  justify-content: center;
+}
 
 .btn {
   border-radius: 300px;
